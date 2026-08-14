@@ -1,0 +1,9 @@
+{
+  "generatedAt": "",
+  "generatedAtKST": "아직 실행 전 — Actions에서 스크래퍼를 한 번 실행하세요",
+  "platforms": {
+    "musinsa": { "label": "무신사", "items": [], "ok": false, "error": "not run yet" },
+    "cm29": { "label": "29CM", "items": [], "ok": false, "error": "not run yet" },
+    "zozo": { "label": "ZOZOTOWN", "items": [], "ok": false, "error": "not run yet" }
+  }
+}

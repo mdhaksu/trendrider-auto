@@ -1,0 +1,13 @@
+{
+  "name": "trendrider-auto",
+  "version": "1.0.0",
+  "description": "트렌드라이다 - 여성 패션 랭킹 자동 수집 (무신사/29CM/ZOZOTOWN)",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.mjs",
+    "install-browser": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}
