@@ -82,11 +82,27 @@ async function scrape29cm(page) {
 }
 
 // ---------- ZOZOTOWN (여성 인기 랭킹) ----------
-// 참고: ZOZO는 DOM 구조가 바뀔 수 있어 셀렉터 튜닝이 필요할 수 있습니다.
+// 참고: ZOZO는 봇/지연 대응을 위해 로딩을 끈질기게 처리합니다.
 async function scrapeZozo(page) {
-  const url = 'https://zozo.jp/ranking/all-sales-women.html';
-  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-  await autoScroll(page, 6, 1400, 700);
+  const urls = [
+    'https://zozo.jp/ranking/all-sales-women.html',
+    'https://zozo.jp/ranking/',
+  ];
+  await page.setExtraHTTPHeaders({ 'Accept-Language': 'ja-JP,ja;q=0.9,en;q=0.5' });
+  let loaded = false;
+  for (const url of urls) {
+    try {
+      // 'commit' = 응답 시작하자마자 반환 (완전 로드까지 안 기다림)
+      await page.goto(url, { waitUntil: 'commit', timeout: 90000 });
+      await page.waitForTimeout(3500);
+      // 상품 링크가 뜰 때까지 최대 25초 대기 (안 뜨면 넘어감)
+      await page.waitForSelector('a[href*="/goods/"]', { timeout: 25000 }).catch(() => {});
+      const has = await page.$('a[href*="/goods/"]');
+      if (has) { loaded = true; break; }
+    } catch (e) { /* 다음 URL 시도 */ }
+  }
+  if (!loaded) throw new Error('ZOZO page did not load product list (IP block 가능성)');
+  await autoScroll(page, 6, 1400, 800);
   return await page.evaluate((TOP_N) => {
     // 상품 카드 앵커 (goods 상세로 연결)
     const links = Array.from(document.querySelectorAll('a[href*="/goods/"], a[href*="/shop/"][href*="/goods"]'));
