@@ -1,93 +1,129 @@
 {
-  "generatedAt": "2026-08-16T23:41:17.064Z",
-  "generatedAtKST": "2026-08-17 08:41 KST",
+  "generatedAt": "2026-08-17T23:49:43.817Z",
+  "generatedAtKST": "2026-08-18 08:49 KST",
   "platforms": {
     "musinsa": {
       "label": "무신사",
       "items": [
         {
           "rank": 1,
-          "brand": "코드그라피",
-          "name": "[DIVO] RDS 유틸리티 덕다운 푸파 숏패딩_웜그레이",
+          "brand": "몰바니",
+          "name": "아티초크 아쿠아 쿨링 선크림 50ml (2/4/6 pack)",
           "price": "",
-          "cat": "여성 1위, 의류 여성 1위",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20240801/4287580/4287580_17224721898560_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/4287580"
+          "cat": "여성 1위, 뷰티 여성 1위",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260709/6816490/6816490_17864104165980_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/6816490"
         },
         {
           "rank": 2,
-          "brand": "포더핏",
-          "name": "로고 미니 백팩",
+          "brand": "파이브바이브",
+          "name": "글리머 터치 오일 (3color)",
           "price": "",
-          "cat": "여성 2위",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20250612/5179329/5179329_17567788151115_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/5179329"
+          "cat": "여성 2위, 뷰티 여성 2위",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260713/6829676/6829676_17865200464783_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/6829676"
         },
         {
           "rank": 3,
-          "brand": "고스트리퍼블릭",
-          "name": "절개 스트링 오버핏 우븐 후드티 GHT-471",
+          "brand": "데누",
+          "name": "[아울렛] RIGIDE Bag[2color]",
           "price": "",
-          "cat": "여성 3위, 의류 여성 2위",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20230216/3086908/3086908_17098756034897_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/3086908"
+          "cat": "여성 3위",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260514/6477975/6477975_17787299985881_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/6477975"
         },
         {
           "rank": 4,
-          "brand": "아오라",
-          "name": "골드 인터락 링 #0095",
+          "brand": "파이브바이브",
+          "name": "글리머 터치 오일 듀오(3color)",
           "price": "",
-          "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260211/6011295/6011295_17707887636282_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/6011295"
+          "cat": "뷰티 여성 3위",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260713/6829678/6829678_17866869126245_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/6829678"
         },
         {
           "rank": 5,
-          "brand": "프리메이",
-          "name": "프리메이 올리브 시카 카밍 앰플 마스크 1매",
+          "brand": "토코보",
+          "name": "코코넛 클레이 클렌징 폼 150mL",
           "price": "",
-          "cat": "뷰티 여성 1위",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260424/6376092/6376092_17770224030295_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/6376092"
+          "cat": "",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20230912/3554371/3554371_17430698191354_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/3554371"
         },
         {
           "rank": 6,
-          "brand": "다이아몬드 레이라",
-          "name": "Crepe Beach Cover-Up S178 Shadow Black",
+          "brand": "언탭트 스튜디오",
+          "name": "시티보이 빅 오버핏 플레이드 체크셔츠 2Color",
           "price": "",
-          "cat": "의류 여성 3위",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20250509/5097587/5097587_17467580427820_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/5097587"
+          "cat": "의류 여성 1위",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20241021/4541368/4541368_17301052340821_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/4541368"
         },
         {
           "rank": 7,
-          "brand": "크랭크",
-          "name": "멀티 버튼 가디건_네이비",
+          "brand": "제이엠더블유",
+          "name": "[파우치+헤어오일 30ml 증정] 볼티 프리볼트 소형 트래블 BLDC 헤어 드라이기",
           "price": "",
           "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260123/5932521/5932521_17714194649913_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/5932521"
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260722/6897474/6897474_17866906084339_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/6897474"
         },
         {
           "rank": 8,
-          "brand": "무센트",
-          "name": "럭스 레더 숄더 백 크로스백 (남녀공용)",
+          "brand": "썸바이미",
+          "name": "리얼 히알루론 하이드라 케어 마스크 [20g]",
           "price": "",
           "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20240829/4383721/4383721_17401206705524_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/4383721"
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260417/6333517/6333517_17769383245538_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/6333517"
         },
         {
           "rank": 9,
-          "brand": "마뗑킴",
-          "name": "MATIN KIM LOGO TOP IN WHITE",
+          "brand": "다이아몬드 레이라",
+          "name": "Easy Care Authentic Dress Shirt AS1 Sky Blue",
           "price": "",
-          "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20240408/4036581/4036581_17744139903388_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/4036581"
+          "cat": "의류 여성 2위",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20220214/2357716/2357716_17192836545561_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/2357716"
         },
         {
           "rank": 10,
+          "brand": "스파오",
+          "name": "[씬라이트] 여성 후드 재킷_SPJPG4TG24",
+          "price": "",
+          "cat": "의류 여성 3위",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260714/6838154/6838154_17865153860313_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/6838154"
+        },
+        {
+          "rank": 11,
+          "brand": "페넥",
+          "name": "CRINKLE PASSPORT CASE - SAGE MINT",
+          "price": "",
+          "cat": "",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20230714/3410416/3410416_16896507764555_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/3410416"
+        },
+        {
+          "rank": 12,
+          "brand": "시그니처",
+          "name": "와이드 커브드 다트 코튼 팬츠[차콜]",
+          "price": "",
+          "cat": "",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20250407/4993413/4993413_17853022844760_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/4993413"
+        },
+        {
+          "rank": 13,
+          "brand": "캘빈클라인 진",
+          "name": "볼드 로고 나일론 캠퍼스 라운드 백팩 4D3114G D1M",
+          "price": "",
+          "cat": "",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20250912/5452987/5452987_17576663640743_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/5452987"
+        },
+        {
+          "rank": 14,
           "brand": "동궁",
           "name": "꺼먹살이 인형키링 8cm",
           "price": "",
@@ -96,94 +132,58 @@
           "url": "https://www.musinsa.com/products/7037691"
         },
         {
-          "rank": 11,
-          "brand": "에잇세컨즈",
-          "name": "끝단변형 카디건  네이비",
-          "price": "",
-          "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260121/5919996/5919996_17786720375437_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/5919996"
-        },
-        {
-          "rank": 12,
-          "brand": "지크립",
-          "name": "유니크 브러쉬 워싱 와이드 일자 청바지",
-          "price": "",
-          "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20240802/4291026/4291026_17247142386265_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/4291026"
-        },
-        {
-          "rank": 13,
-          "brand": "에잇세컨즈",
-          "name": "배색 칼라 풀오버  네이비",
-          "price": "",
-          "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260204/5978421/5978421_17840671625619_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/5978421"
-        },
-        {
-          "rank": 14,
-          "brand": "요세미티",
-          "name": "아플리케 자수 피그먼트 반팔티 스모크블랙 YT-306",
-          "price": "",
-          "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20250502/5086677/5086677_17534022465164_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/5086677"
-        },
-        {
           "rank": 15,
-          "brand": "크랭크",
-          "name": "멀티 버튼 가디건_올리브",
+          "brand": "위버스",
+          "name": "엔하이픈 (ENHYPEN) THE SIN : BLISS (ENGENE ver.) (Random)",
           "price": "",
           "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260123/5932501/5932501_17714928214691_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/5932501"
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260804/6988688/6988688_17863240059239_500.png?w=192",
+          "url": "https://www.musinsa.com/products/6988688"
         },
         {
           "rank": 16,
-          "brand": "폴로 랄프 로렌 칠드런",
-          "name": "케이블 니트 코튼 브이넥 카디건-브라운",
+          "brand": "와키윌리",
+          "name": "퀼팅 리버시블 머플러 아이보리",
           "price": "",
           "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20250820/5340630/5340630_17573757842924_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/5340630"
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20241002/4482391/4482391_17285469241028_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/4482391"
         },
         {
           "rank": 17,
-          "brand": "포트레",
-          "name": "섀도우 누보 (12colors)",
+          "brand": "스키즘 인듀싱",
+          "name": "BUTTON SLIT HENLEY KNIT BLACK",
           "price": "",
-          "cat": "뷰티 여성 2위",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260709/6816177/6816177_17845234460186_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/6816177"
+          "cat": "",
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260121/5920429/5920429_17708881159110_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/5920429"
         },
         {
           "rank": 18,
-          "brand": "킨",
-          "name": "재스퍼 II 키즈(리틀키즈) 스니커즈 ALLOY/BIRCH",
+          "brand": "배드블러드",
+          "name": "미스틱 탱크 슬림핏 - 그린카모",
           "price": "",
           "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260707/6798719/6798719_17853058413333_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/6798719"
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20250609/5171368/5171368_17494466909564_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/5171368"
         },
         {
           "rank": 19,
-          "brand": "나이키",
-          "name": "스튜디오 플리스 라이트웨이트 오버사이즈 풀집 후디 W - 다크 그레이 헤더:세일 / IM8109-063",
+          "brand": "룰루레몬",
+          "name": "원더러스트 백팩 스몰 14L *그립 핸들  LTIV WKKI GOLD",
           "price": "",
           "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260724/6918912/6918912_17853865471636_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/6918912"
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260401/6232353/6232353_17813040538825_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/6232353"
         },
         {
           "rank": 20,
-          "brand": "마뗑킴",
-          "name": "PIGMENT LOGO TOP IN POWDER BLUE",
+          "brand": "스몰굿띵",
+          "name": "2mm 이터니티 테니스 반지",
           "price": "",
           "cat": "",
-          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260323/6178765/6178765_17742564736986_500.jpg?w=192",
-          "url": "https://www.musinsa.com/products/6178765"
+          "img": "https://image.msscdn.net/thumbnails/images/goods_img/20260327/6213237/6213237_17745991660504_500.jpg?w=192",
+          "url": "https://www.musinsa.com/products/6213237"
         }
       ],
       "ok": true,
@@ -195,6 +195,33 @@
       "items": [
         {
           "rank": 1,
+          "brand": "시야쥬",
+          "name": "[꼬민지PICK/29CM 단독] SIOT4182 하이 넥 버튼 블루종_Navy",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202608/11f199d6377ee51285e175537dd844cc.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3769341"
+        },
+        {
+          "rank": 2,
+          "brand": "웬즈데이오아시스",
+          "name": "[Atelier Edition] W/Two Way Vegan Leather Jacket_2COLOR(WC25-OT09)",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202509/11f093803023ba4494a2b7e59c753ef1.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3423314"
+        },
+        {
+          "rank": 3,
+          "brand": "아르카익",
+          "name": "[꼬민지 PICK][10th] faux leather half coat_black",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202608/11f199cc75fcdd8885e1f77211683ab4.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3765311"
+        },
+        {
+          "rank": 4,
           "brand": "파르티멘토 우먼",
           "name": "PWC EVERYDAY BALLOON JOGGER PANTS_18COLOR",
           "price": "",
@@ -203,133 +230,7 @@
           "url": "https://www.29cm.co.kr/product/catalog/3334217"
         },
         {
-          "rank": 2,
-          "brand": "엣프터",
-          "name": "[26SS] 홀터넥 3way 브라 & 와이 프리 핏 팬티 SET - 4Colors",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202607/11f1874af7406c4281484fac6d200648.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4102437"
-        },
-        {
-          "rank": 3,
-          "brand": "휘게 언더웨어",
-          "name": "쿠폰",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202606/11f160a1aa6f55479f7fbfef5936b63f.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3196522"
-        },
-        {
-          "rank": 4,
-          "brand": "로트",
-          "name": "Low H-Line Skirt_2 Color",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202606/11f170358b903fbd909017f9eba0adad.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4058284"
-        },
-        {
           "rank": 5,
-          "brand": "코어드",
-          "name": "[7차/예약배송] [기장선택] Fatigue pocket pants (light khaki)",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202606/11f163ab0a67d45db357978a52960f73.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4013315"
-        },
-        {
-          "rank": 6,
-          "brand": "자주",
-          "name": "[JAJU/자주] 여 시어서커 5부 파자마 세트_라이트 네이비",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202603/11f11ea58f383a70a3c0437b0719466e.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3853502"
-        },
-        {
-          "rank": 7,
-          "brand": "비너스",
-          "name": "S-fit 스포츠 심리스 소프트 브라(VBRS601)",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202604/11f13a2b5191f241bc920d7732bb4b8a.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3937049"
-        },
-        {
-          "rank": 8,
-          "brand": "스프링크로커스",
-          "name": "Summer Whole Garment V-Neck Knit-Navy",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202604/11f142b054c526f485ee83437af879bd.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3958682"
-        },
-        {
-          "rank": 9,
-          "brand": "유라고",
-          "name": "[2차 리오더][with 솔비] Lace line cap sleeve t-shirt_3colors",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202607/11f17a953f7676c881a771a1326b9d40.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4023963"
-        },
-        {
-          "rank": 10,
-          "brand": "유라고",
-          "name": "[2차 리오더] Sheer button raglan t-shirt_4colors",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202606/11f1655778d8a4b5b357014e50039406.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4023938"
-        },
-        {
-          "rank": 11,
-          "brand": "나이키",
-          "name": "드라이 핏 원 미드라이즈 3인치 투인원 쇼츠 W - [블랙:화이트 / DX6013-013]",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202603/11f11780cb3385c2a54047c3de64a3b7.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3819575"
-        },
-        {
-          "rank": 12,
-          "brand": "블루브릭",
-          "name": "[49차] [기장선택] Wide denim (dark blue)",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202603/11f1273eae7cdbf3b493fdc68be21afd.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/1184145"
-        },
-        {
-          "rank": 13,
-          "brand": "자주",
-          "name": "[JAJU/자주] 여 시어서커 5부 파자마 세트_다크 민트",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202603/11f11ea5a775d39ca540351c79aba224.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3853516"
-        },
-        {
-          "rank": 14,
-          "brand": "블랭크공삼",
-          "name": "classic cropped jeans (classic blue)",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202503/11eff7d388d27a808b63d53f19cae06d.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/1946572"
-        },
-        {
-          "rank": 15,
-          "brand": "블랭크룸 우먼",
-          "name": "LANG TRENCH COAT_BLACK SILK",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202603/11f121b2f09ccfeea54065e8c4d2d8b3.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3852447"
-        },
-        {
-          "rank": 16,
           "brand": "코즈넉",
           "name": "캡 내장 심리스 쿨링 크롭 레이어드 이너 나시 수면브라 끈나시",
           "price": "",
@@ -338,40 +239,139 @@
           "url": "https://www.29cm.co.kr/product/catalog/2123023"
         },
         {
-          "rank": 17,
-          "brand": "앤니즈",
-          "name": "Raglan waffle tee (yellow)",
+          "rank": 6,
+          "brand": "오떼뜨",
+          "name": "[꼬민지 착용] [29th] BOUCLE RAM HALF FUR-COAT_BEIGE",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202402/11eed22c32792c40837767e91e762e2f.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/2483930"
+          "img": "https://img.29cm.co.kr/item/202608/11f19a03dbde8a748fdc23f966767c87.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2892735"
+        },
+        {
+          "rank": 7,
+          "brand": "테누브",
+          "name": "High-neck Leather Blouson Jumper M938_2color",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202608/11f19a945dbcfe1685e173fa0b097b4e.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3752734"
+        },
+        {
+          "rank": 8,
+          "brand": "아수라",
+          "name": "MELT ONE SHOULDER T (CHARCOAL)",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202605/11f15ac06588c9c59090999bb163e8da.jpeg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4003182"
+        },
+        {
+          "rank": 9,
+          "brand": "아틀리에 나인",
+          "name": "2026-08-04 예약배송_[장다연 PICK] LOND WAIST TUCK BLOUSE (Z-BL-4225)",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202604/11f1443e2ae7a0a9bc9203b7952e90f1.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2605280"
+        },
+        {
+          "rank": 10,
+          "brand": "갓바디",
+          "name": "모달 심리스 안착 팬티",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/next-product/2023/12/28/90c9608d1f5f4f19a387da7ed8cc265f_20231228171934.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/1848239"
+        },
+        {
+          "rank": 11,
+          "brand": "코즈넉",
+          "name": "[단독 구성] 캡 내장 심리스 끈나시 3컬러 SET",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202606/11f16f9ade19de63b357b7e778a33412.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4058963"
+        },
+        {
+          "rank": 12,
+          "brand": "108파운드",
+          "name": "[사이즈추가]Molly Reversible Shearling Coat_Dark brown",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202509/11f09ab523b75244920c61e3e96ef393.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3531193"
+        },
+        {
+          "rank": 13,
+          "brand": "비터셀즈",
+          "name": "Poddy Fleece Half Zip Up-Charcoal",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202508/11f07e2aa8433bb88403e9eea0dcf58b.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3391949"
+        },
+        {
+          "rank": 14,
+          "brand": "아수라",
+          "name": "AUTHENTIC TRENCH JACKET (BEIGE)",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202602/11f112d8c831aa8ea3c0574f0cef0f5b.jpeg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3797197"
+        },
+        {
+          "rank": 15,
+          "brand": "에토아",
+          "name": "[4th]_브이 슬릿 코튼 니트 [블랙]",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202603/11f1236676c6eb34a540f5fc0e2672df.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3739269"
+        },
+        {
+          "rank": 16,
+          "brand": "르메메",
+          "name": "High Neck Toggle Fur Jacket_2colors",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202601/11f0f1bd029e0a4aa3c0ed27c9b63dc6.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3640163"
+        },
+        {
+          "rank": 17,
+          "brand": "썸웨어버터",
+          "name": "[20th] Sunkiss Stripe Long Top - Light Blue",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202605/11f14cf91059952283a473b97c70510a.png?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3959378"
         },
         {
           "rank": 18,
-          "brand": "시야쥬",
-          "name": "SIPT7202 드레이프 부츠컷 슬랙스_Black",
+          "brand": "코어드",
+          "name": "[15차] Classic harrington jumper (beige)",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202604/11f13ec5b6aa016885ee4162627ede40.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3948530"
+          "img": "https://img.29cm.co.kr/item/202608/11f196e0e1ae8ecc85e18f6f13810c0b.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3803232"
         },
         {
           "rank": 19,
-          "brand": "유라고",
-          "name": "Noah string shirt jacket_2colors",
+          "brand": "토르테",
+          "name": "[13rd]Deep V-neck Linen Loose-fit Knit Ivory",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202603/11f11c2388102b7aa3c059d66129484d.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3792992"
+          "img": "https://img.29cm.co.kr/item/202606/11f17386332d3b3a81a73fd8445cb90f.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4052450"
         },
         {
           "rank": 20,
-          "brand": "아디다스",
-          "name": "파이어버드 루즈 트랙 팬츠 - 블랙:화이트 / KD7976",
+          "brand": "아우브아워",
+          "name": "[다연 PICK][7차 재입고] vent half trench coat (ivory)",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202607/11f18a41b089bc8c81485dce0e426310.png?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4101699"
+          "img": "https://img.29cm.co.kr/item/202608/11f199dcd0f137828fdc434b1de13403.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3826385"
         }
       ],
       "ok": true,
@@ -383,60 +383,24 @@
       "items": [
         {
           "rank": 1,
-          "brand": "SALOMON",
+          "brand": "45R",
           "name": "",
-          "price": "31,900円",
+          "price": "68,200円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/151/kf4151-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/KF4151/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/097/sr1097-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SR1097/"
         },
         {
           "rank": 2,
-          "brand": "UNITED ARROWS green label relaxing",
+          "brand": "BEAUTY&YOUTH UNITED ARROWS",
           "name": "",
-          "price": "9,240円",
+          "price": "24,200円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/572/rd6572-09_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RD6572/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/865/sh5865-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SH5865/"
         },
         {
           "rank": 3,
-          "brand": "adidas",
-          "name": "",
-          "price": "13,200円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/052/sg7052-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SG7052/"
-        },
-        {
-          "rank": 4,
-          "brand": "UNITED ARROWS green label relaxing",
-          "name": "",
-          "price": "7,480円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/737/rw3737-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RW3737/"
-        },
-        {
-          "rank": 5,
-          "brand": "UNITED ARROWS green label relaxing",
-          "name": "",
-          "price": "5,874円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/269/rr0269-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RR0269/"
-        },
-        {
-          "rank": 6,
-          "brand": "POLA",
-          "name": "",
-          "price": "18,700円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/051/pq7051-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/PQ7051/"
-        },
-        {
-          "rank": 7,
           "brand": "New Balance",
           "name": "",
           "price": "9,735円",
@@ -445,13 +409,49 @@
           "url": "https://brandavenue.rakuten.co.jp/item/RW0999/"
         },
         {
-          "rank": 8,
+          "rank": 4,
+          "brand": "adidas",
+          "name": "",
+          "price": "13,200円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/052/sg7052-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SG7052/"
+        },
+        {
+          "rank": 5,
+          "brand": "UNITED ARROWS green label relaxing",
+          "name": "",
+          "price": "9,240円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/572/rd6572-09_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/RD6572/"
+        },
+        {
+          "rank": 6,
           "brand": "track",
           "name": "",
           "price": "4,620円",
           "cat": "",
           "img": "https://tshop.r10s.jp/stylife/cabinet/item/471/nv2471-08_1.jpg?fitin=165:198&composite-to=center,center|165:198",
           "url": "https://brandavenue.rakuten.co.jp/item/NV2471/"
+        },
+        {
+          "rank": 7,
+          "brand": "POLA",
+          "name": "",
+          "price": "18,700円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/051/pq7051-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/PQ7051/"
+        },
+        {
+          "rank": 8,
+          "brand": "ODETTE E ODILE",
+          "name": "",
+          "price": "14,300円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/157/nu4157-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/NU4157/"
         },
         {
           "rank": 9,
@@ -464,48 +464,48 @@
         },
         {
           "rank": 10,
-          "brand": "Aquascutum",
+          "brand": "45R",
           "name": "",
-          "price": "187,000円",
+          "price": "27,500円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/278/rb5278-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RB5278/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/405/sq5405-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SQ5405/"
         },
         {
           "rank": 11,
-          "brand": "FREAK’S STORE",
+          "brand": "JIL SANDER",
           "name": "",
-          "price": "3,495円",
+          "price": "140,800円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/000/ru2000-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RU2000/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/917/sf8917-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SF8917/"
         },
         {
           "rank": 12,
-          "brand": "UNITED ARROWS green label relaxing",
+          "brand": "COACH OUTLET",
           "name": "",
-          "price": "8,382円",
+          "price": "33,000円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/219/rz4219-07_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RZ4219/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/867/mq3867-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/MQ3867/"
         },
         {
           "rank": 13,
-          "brand": "DRESSTERIOR",
+          "brand": "UNITED ARROWS green label relaxing",
           "name": "",
-          "price": "44,000円",
+          "price": "5,874円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/504/sk8504-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SK8504/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/269/rr0269-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/RR0269/"
         },
         {
           "rank": 14,
-          "brand": "BEARDSLEY",
+          "brand": "Francfranc",
           "name": "",
-          "price": "24,200円",
+          "price": "3,980円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/285/qx2285-05_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/QX2285/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/239/rm4239-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/RM4239/"
         },
         {
           "rank": 15,
@@ -518,48 +518,48 @@
         },
         {
           "rank": 16,
+          "brand": "Bshop",
+          "name": "",
+          "price": "14,080円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/635/sf6635-04_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SF6635/"
+        },
+        {
+          "rank": 17,
+          "brand": "adidas",
+          "name": "",
+          "price": "7,920円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/428/pk8428-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/PK8428/"
+        },
+        {
+          "rank": 18,
+          "brand": "ear PAPILLONNER",
+          "name": "",
+          "price": "9,900円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/017/qb1017-13_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/QB1017/"
+        },
+        {
+          "rank": 19,
+          "brand": "coen",
+          "name": "",
+          "price": "6,600円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/980/rt6980-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/RT6980/"
+        },
+        {
+          "rank": 20,
           "brand": "BEARDSLEY",
           "name": "",
           "price": "26,400円",
           "cat": "",
           "img": "https://tshop.r10s.jp/stylife/cabinet/item/843/qx0843-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
           "url": "https://brandavenue.rakuten.co.jp/item/QX0843/"
-        },
-        {
-          "rank": 17,
-          "brand": "FREAK’S STORE",
-          "name": "",
-          "price": "14,993円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/175/rb7175-04_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RB7175/"
-        },
-        {
-          "rank": 18,
-          "brand": "UNITED ARROWS green label relaxing",
-          "name": "",
-          "price": "9,570円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/472/rp9472-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RP9472/"
-        },
-        {
-          "rank": 19,
-          "brand": "FREAK’S STORE",
-          "name": "",
-          "price": "75,900円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/297/sm5297-03_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SM5297/"
-        },
-        {
-          "rank": 20,
-          "brand": "FREAK’S STORE",
-          "name": "",
-          "price": "4,494円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/319/rk3319-07_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RK3319/"
         }
       ],
       "ok": true,
