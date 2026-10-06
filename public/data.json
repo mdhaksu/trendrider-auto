@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T01:38:20.573Z",
-  "generatedAtKST": "2026-10-05 10:38 KST",
+  "generatedAt": "2026-10-06T02:42:58.216Z",
+  "generatedAtKST": "2026-10-06 11:42 KST",
   "platforms": {
     "musinsa": {
       "label": "무신사",
@@ -14,96 +14,15 @@
       "items": [
         {
           "rank": 1,
-          "brand": "도씨",
-          "name": "[해원 PICK] 실크핏 여름 반팔 카라 커플 잠옷 세트 모음전 18종",
+          "brand": "파르티멘토",
+          "name": "[10/16 예약배송]_Henley Neck Stripe Long Sleeve Black",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f1a065535079928fdc930d1abe1220.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3955627"
+          "img": "https://img.29cm.co.kr/item/202508/11f08168d7786a5a8403573bd903f1ce.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3429540"
         },
         {
           "rank": 2,
-          "brand": "썸웨어버터",
-          "name": "[6th] Pecan Waffle Raglan Long Top - Light Blue(Black)",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202609/11f1a80fa004547c84ce7fd7756ea2cd.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4132891"
-        },
-        {
-          "rank": 3,
-          "brand": "쏘이르",
-          "name": "[강문경 착용]_HIGHNECK BELT TRENCH COAT - CHARCOAL",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f19c92751d03aa85e1ed53e639de7d.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4156842"
-        },
-        {
-          "rank": 4,
-          "brand": "토르테",
-          "name": "[8th]Wool Deep V-neck Knit Black",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f1a50308d7ef40b4a97b43d27e04ba.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4122664"
-        },
-        {
-          "rank": 5,
-          "brand": "유제",
-          "name": "[29CM 단독] [꼬민지 착용] BUTTON CAMI & TOP 002 (3color)",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202610/11f1bf9758510e9090ed2b96c1992cfc.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4264098"
-        },
-        {
-          "rank": 6,
-          "brand": "토르테",
-          "name": "[9th]Pleats Scarf Cardigan Set Charcoal",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202609/11f1a5cc93064968b4a9f95c81010926.JPG?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4122658"
-        },
-        {
-          "rank": 7,
-          "brand": "비터셀즈",
-          "name": "[7부/오버핏] Vintage Essential Raglan Tee",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f1a1454a1d10788fdce3061928a695.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4152302"
-        },
-        {
-          "rank": 8,
-          "brand": "토르테",
-          "name": "[5th]Lambswool Henley-neck Knit Burgundy",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f1a50466625b81b4a9f5c65f3d1900.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4153713"
-        },
-        {
-          "rank": 9,
-          "brand": "비터셀즈",
-          "name": "[묵화 PICK] Loose Fit Check Knit Half Zip Up-Light Grey",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f1a28e8c3e60f48fdcd7692add824e.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4115337"
-        },
-        {
-          "rank": 10,
-          "brand": "파르티멘토 우먼",
-          "name": "[10/7 예약배송]_PWC EVERYDAY BALLOON JOGGER PANTS_18COLOR",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202602/11f1065e8d9969e2a540b78b5577ef66.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3334217"
-        },
-        {
-          "rank": 11,
           "brand": "유라고",
           "name": "[2차 리오더][29CM단독][with 솔비] Washable deep V-neck knit_3colors",
           "price": "",
@@ -112,25 +31,7 @@
           "url": "https://www.29cm.co.kr/product/catalog/4137038"
         },
         {
-          "rank": 12,
-          "brand": "코즈넉",
-          "name": "[MD추천] 루베리 플라워 여성 잠옷 세트 홈웨어 파자마",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202607/11f18cb72b94ed7b964565305eaeebc3.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4111338"
-        },
-        {
-          "rank": 13,
-          "brand": "아수라",
-          "name": "PURE WOOL DEEP V KNIT (DARK PURPLE)",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202609/11f1a767e2dde9c7b18d0b4d6fba93d9.jpeg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4137186"
-        },
-        {
-          "rank": 14,
+          "rank": 3,
           "brand": "미치코런던 코시노",
           "name": "Basic V-neck Wool Knit Black",
           "price": "",
@@ -139,58 +40,157 @@
           "url": "https://www.29cm.co.kr/product/catalog/3748837"
         },
         {
-          "rank": 15,
-          "brand": "레이크스튜디오",
-          "name": "[29CM단독]_[29CM단독] Crack Two-Pocket Leather Half Jacket_Black",
+          "rank": 4,
+          "brand": "유라고",
+          "name": "[1차 리오더][29CM단독][with 솔비] Washable knit sleeveless_3colors",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202509/11f093ee672ae89094a207485c04284d.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3524278"
+          "img": "https://img.29cm.co.kr/item/202609/11f1ad9f82205b8c9127d7b8fe1d8244.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4137036"
+        },
+        {
+          "rank": 5,
+          "brand": "로우클래식",
+          "name": "LOW WASHED ZIP-UP HOODIE_SOFT PINK [LC267TS13SF]",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202608/11f1a083dcc0aa5485e1f345b65b4ec1.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4129590"
+        },
+        {
+          "rank": 6,
+          "brand": "파르티멘토 우먼",
+          "name": "[10/7 예약배송]_PWC EVERYDAY BALLOON JOGGER PANTS_18COLOR",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202602/11f1065e8d9969e2a540b78b5577ef66.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3334217"
+        },
+        {
+          "rank": 7,
+          "brand": "유라고",
+          "name": "[9차 리오더][컬러추가] Washable V-neck knit_6colors",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202409/11ef700128e243b0a9802f9ce652f5c9.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2801298"
+        },
+        {
+          "rank": 8,
+          "brand": "토르테",
+          "name": "[8th]Wool Deep V-neck Knit Black",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202608/11f1a50308d7ef40b4a97b43d27e04ba.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4122664"
+        },
+        {
+          "rank": 9,
+          "brand": "토르테",
+          "name": "[6th]Lambswool Henley-neck Knit Burgundy",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202608/11f1a50466625b81b4a9f5c65f3d1900.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4153713"
+        },
+        {
+          "rank": 10,
+          "brand": "로우클래식",
+          "name": "LOW SOFT SWEAT ZIP-UP HOODIE_CHARCOAL [LC267TS12CC]",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202509/11f08a3db20c3cf3ab5df1f75943c57e.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3091097"
+        },
+        {
+          "rank": 11,
+          "brand": "르에떼",
+          "name": "[2nd] Manor Cotton Pants in Olive Khaki",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202610/11f1be118f2209c690ed71caddd43098.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4264678"
+        },
+        {
+          "rank": 12,
+          "brand": "시야쥬",
+          "name": "[29CM 단독/컬러추가] SIKN2136 클래식 스트라이프 카라 니트_Navy",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202602/11f0ffde6857c396a3c0d1eec8e1376a.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3033257"
+        },
+        {
+          "rank": 13,
+          "brand": "노운베러",
+          "name": "[3차:10/20 예약배송] Loose fit merino wool knit [KNFW06KN03]_Light gray",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/next-product/2026/08/19/9392f057d4324b6ba299ec20b0fbda7f_20260819115200.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4137222"
+        },
+        {
+          "rank": 14,
+          "brand": "티세르",
+          "name": "[uni] 티세르 FW 신상 피치기모 홈웨어 파자마 모음전 12colors",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202609/11f1bca13dc4cc378aaed1e3d2530fcb.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4229975"
+        },
+        {
+          "rank": 15,
+          "brand": "드로우핏 우먼",
+          "name": "[드로우핏우먼 X 알로하] 리버시블 다우니 플리스 자켓 [BLUE GREY]",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202610/11f1bd5f608493858aae616b01d07909.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4269447"
         },
         {
           "rank": 16,
-          "brand": "108파운드",
-          "name": "Edge Dying Jean_Steel Blue",
+          "brand": "오브유이",
+          "name": "[컬러추가] 소프트 딥 브이넥 니트 [4color]",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f1957b7426508885e10fb8cdc840fa.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4099342"
+          "img": "https://img.29cm.co.kr/item/202608/11f19e15c5dcf58a8fdc55264ea4aba9.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4132224"
         },
         {
           "rank": 17,
-          "brand": "로라로라",
-          "name": "[2차 : 2026-10-12 예약발송]_MAISON DE ROLA EMBROIDERY STRIPE LONG SLEEVE L/GR+NV",
+          "brand": "틸아이다이",
+          "name": "[주미니 Pick]Raglan oversized modal tee [TIFA06LT06]_Navy",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/next-product/2026/08/13/88c15bfee7b2467eb78ec569199cf6b7_20260813114608.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4115527"
+          "img": "https://img.29cm.co.kr/item/202609/11f1bad825a04a3b90eddf2c586b650a.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4149711"
         },
         {
           "rank": 18,
-          "brand": "글로니",
-          "name": "G ELIO AIRY PADDING JACKET (BROWN)",
+          "brand": "아워코모스",
+          "name": "[2차 10월 7일 예약배송]_cashmere deep V-neck knit (melange grey) orc 6094",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202609/11f1bc8bbfdddbae90ed35344ac5c735.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4228685"
+          "img": "https://img.29cm.co.kr/item/202608/11f1a20692a0c86c85e19522dc8b98d9.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4167910"
         },
         {
           "rank": 19,
-          "brand": "망고매니플리즈",
-          "name": "SOI BANDING PANTS_2COLORS",
+          "brand": "르에떼",
+          "name": "Low Wool Pants in Taupe",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202509/11f08e4534448a66be172779ca41c09c.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3488601"
+          "img": "https://img.29cm.co.kr/item/202610/11f1be0fae2ce26390ed13e538382276.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4264672"
         },
         {
           "rank": 20,
-          "brand": "오버듀플레어",
-          "name": "COTTON WIDE DENIM PANTS_RED DAHLIA",
+          "brand": "아르토",
+          "name": "Essential Boat Neck Tee_4 Colors",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f1a031f303f39a8fdc91512893011d.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3438967"
+          "img": "https://img.29cm.co.kr/item/202603/11f1229b4aa66574a540f70c2f9f50ef.png?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2746755"
         }
       ],
       "ok": true,
@@ -202,15 +202,6 @@
       "items": [
         {
           "rank": 1,
-          "brand": "New Balance",
-          "name": "",
-          "price": "19,360円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/146/pb3146-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/PB3146/"
-        },
-        {
-          "rank": 2,
           "brand": "POLA",
           "name": "",
           "price": "19,800円",
@@ -219,61 +210,16 @@
           "url": "https://brandavenue.rakuten.co.jp/item/SV2423/"
         },
         {
+          "rank": 2,
+          "brand": "adidas",
+          "name": "",
+          "price": "9,350円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/910/sv4910-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SV4910/"
+        },
+        {
           "rank": 3,
-          "brand": "BEARDSLEY",
-          "name": "",
-          "price": "17,765円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/656/sk2656-06_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SK2656/"
-        },
-        {
-          "rank": 4,
-          "brand": "ROPE' PICNIC",
-          "name": "",
-          "price": "8,998円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/719/sn1719-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SN1719/"
-        },
-        {
-          "rank": 5,
-          "brand": "FREAK’S STORE",
-          "name": "",
-          "price": "8,098円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/263/sn2263-25_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SN2263/"
-        },
-        {
-          "rank": 6,
-          "brand": "FREAK’S STORE",
-          "name": "",
-          "price": "5,995円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/724/sr8724-09_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SR8724/"
-        },
-        {
-          "rank": 7,
-          "brand": "FREAK’S STORE",
-          "name": "",
-          "price": "5,995円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/800/sn5800-06_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SN5800/"
-        },
-        {
-          "rank": 8,
-          "brand": "Ranan",
-          "name": "",
-          "price": "2,200円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/882/qb5882-06_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/QB5882/"
-        },
-        {
-          "rank": 9,
           "brand": "New Balance",
           "name": "",
           "price": "24,200円",
@@ -282,34 +228,25 @@
           "url": "https://brandavenue.rakuten.co.jp/item/PH6247/"
         },
         {
-          "rank": 10,
+          "rank": 4,
           "brand": "FREAK’S STORE",
           "name": "",
-          "price": "11,990円",
+          "price": "5,995円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/089/ss3089-07_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SS3089/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/724/sr8724-10_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SR8724/"
         },
         {
-          "rank": 11,
-          "brand": "UNITED ARROWS green label relaxing",
+          "rank": 5,
+          "brand": "SLOBE IENA",
           "name": "",
-          "price": "11,000円",
+          "price": "37,400円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/380/sn0380-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SN0380/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/806/sq2806-03_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SQ2806/"
         },
         {
-          "rank": 12,
-          "brand": "track",
-          "name": "",
-          "price": "4,620円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/471/nv2471-08_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/NV2471/"
-        },
-        {
-          "rank": 13,
+          "rank": 6,
           "brand": "adidas",
           "name": "",
           "price": "16,500円",
@@ -318,16 +255,7 @@
           "url": "https://brandavenue.rakuten.co.jp/item/RB7941/"
         },
         {
-          "rank": 14,
-          "brand": "COLLAGE GALLARDAGALANTE",
-          "name": "",
-          "price": "11,000円",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/256/sk2256-07_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SK2256/"
-        },
-        {
-          "rank": 15,
+          "rank": 7,
           "brand": "New Balance",
           "name": "",
           "price": "22,000円",
@@ -336,34 +264,52 @@
           "url": "https://brandavenue.rakuten.co.jp/item/RE9938/"
         },
         {
-          "rank": 16,
-          "brand": "Marimekko",
+          "rank": 8,
+          "brand": "THE NORTH FACE",
           "name": "",
-          "price": "14,300円",
+          "price": "55,000円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/067/sv5067-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SV5067/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/291/pz9291-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/PZ9291/"
         },
         {
-          "rank": 17,
-          "brand": "LE TALON",
+          "rank": 9,
+          "brand": "track",
           "name": "",
-          "price": "19,800円",
+          "price": "4,620円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/766/sk4766-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SK4766/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/471/nv2471-08_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/NV2471/"
         },
         {
-          "rank": 18,
-          "brand": "SK-II",
+          "rank": 10,
+          "brand": "GeeRA",
           "name": "",
-          "price": "29,150円",
+          "price": "6,435円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/166/ss2166-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SS2166/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/104/sk2104-05_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SK2104/"
         },
         {
-          "rank": 19,
+          "rank": 11,
+          "brand": "Demi-Luxe BEAMS",
+          "name": "",
+          "price": "78,100円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/155/hw9155-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/HW9155/"
+        },
+        {
+          "rank": 12,
+          "brand": "ROPE' PICNIC",
+          "name": "",
+          "price": "8,998円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/719/sn1719-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SN1719/"
+        },
+        {
+          "rank": 13,
           "brand": "New Balance",
           "name": "",
           "price": "27,940円",
@@ -372,13 +318,67 @@
           "url": "https://brandavenue.rakuten.co.jp/item/NA6818/"
         },
         {
-          "rank": 20,
-          "brand": "GeeRA",
+          "rank": 14,
+          "brand": "FREAK’S STORE",
           "name": "",
-          "price": "5,005円",
+          "price": "8,998円",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/591/sk9591-05_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SK9591/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/263/sn2263-25_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SN2263/"
+        },
+        {
+          "rank": 15,
+          "brand": "Demi-Luxe BEAMS",
+          "name": "",
+          "price": "130,900円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/168/ps8168-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/PS8168/"
+        },
+        {
+          "rank": 16,
+          "brand": "LIAN",
+          "name": "",
+          "price": "14,960円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/487/sx5487-04_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SX5487/"
+        },
+        {
+          "rank": 17,
+          "brand": "Ranan",
+          "name": "",
+          "price": "2,200円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/882/qb5882-06_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/QB5882/"
+        },
+        {
+          "rank": 18,
+          "brand": "Onitsuka Tiger",
+          "name": "",
+          "price": "15,400円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/643/ev9643-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/EV9643/"
+        },
+        {
+          "rank": 19,
+          "brand": "UNITED ARROWS",
+          "name": "",
+          "price": "75,900円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/859/sh6859-09_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SH6859/"
+        },
+        {
+          "rank": 20,
+          "brand": "New Balance",
+          "name": "",
+          "price": "22,000円",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/938/rj1938-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/RJ1938/"
         }
       ],
       "ok": true,
