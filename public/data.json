@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T03:10:21.385Z",
-  "generatedAtKST": "2026-11-13 12:10 KST",
+  "generatedAt": "2026-11-14T02:55:58.915Z",
+  "generatedAtKST": "2026-11-14 11:55 KST",
   "platforms": {
     "musinsa": {
       "label": "무신사",
@@ -14,6 +14,33 @@
       "items": [
         {
           "rank": 1,
+          "brand": "시야쥬",
+          "name": "[29CM 단독/해삐PICK] SIPT7218 커브드 밴딩 조거 팬츠_Melange gray",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202611/11f1dbe8dc4ac882aa2dd957d4fff3fa.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4323201"
+        },
+        {
+          "rank": 2,
+          "brand": "시야쥬",
+          "name": "[29CM 단독/해삐PICK] SIOT4222 러스터 빈티지 퍼 자켓_Brown",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202611/11f1dbdc5f494048b5d9b3091904f7c0.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4323285"
+        },
+        {
+          "rank": 3,
+          "brand": "시야쥬",
+          "name": "[바로배송][29CM 단독/다희 PICK] SIPT7097 기모 골지 스웻 팬츠_Cream",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202311/11ee7d46da4a7741a5b38f180e289750.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2314126"
+        },
+        {
+          "rank": 4,
           "brand": "티세르",
           "name": "[uni] 티세르 FW 신상 피치기모 홈웨어 파자마 모음전 12colors",
           "price": "",
@@ -22,40 +49,13 @@
           "url": "https://www.29cm.co.kr/product/catalog/4229975"
         },
         {
-          "rank": 2,
-          "brand": "더바넷",
-          "name": "Molten Fleece Drawstring Pants_Grey",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202509/11f09cff941da69ca4cddf5db67bfeba.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3554864"
-        },
-        {
-          "rank": 3,
-          "brand": "더바넷",
-          "name": "[곰송이,혜진 PICK] Merrit Fur Jacket_Light Beige",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202611/11f1dbe380151399aa2d236031fc49cf.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4290582"
-        },
-        {
-          "rank": 4,
-          "brand": "유라고",
-          "name": "[컬러추가] Washable V-neck knit_6colors",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202409/11ef700128e243b0a9802f9ce652f5c9.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/2801298"
-        },
-        {
           "rank": 5,
           "brand": "시야쥬",
-          "name": "[바로배송][29CM 단독/다희 PICK] SIPT7097 기모 골지 스웻 팬츠_Cream",
+          "name": "[29CM 단독/해삐PICK] SITP5320 기모 레이어드 터틀넥 탑_Mint blue",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202311/11ee7d46da4a7741a5b38f180e289750.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/2314126"
+          "img": "https://img.29cm.co.kr/item/202611/11f1dbdc8289c13faa2ddfa0f9315644.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4323219"
         },
         {
           "rank": 6,
@@ -68,78 +68,96 @@
         },
         {
           "rank": 7,
-          "brand": "더바넷",
-          "name": "Melto Wool Cowichan Knit Zip-Up_Cream Navy",
+          "brand": "시야쥬",
+          "name": "[바로배송][29CM 단독/다희PICK] SIOT4123 패딩 하프 코트_3colors",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202611/11f1d918da7a814db5d94587393f64eb.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4342666"
+          "img": "https://img.29cm.co.kr/item/202611/11f1dbd78ef023a4aa2da37e7f3736ba.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2905136"
         },
         {
           "rank": 8,
-          "brand": "오셀픽",
-          "name": "[7차리오더] (uni) 스트라이프 극세사 파자마 세트 커플 긴팔 잠옷 상하세트 4Color",
+          "brand": "로우",
+          "name": "[29CM 단독] Bas sweatshirt (2COL)",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202507/11f0693672a064ee889387c3256bbf70.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3395115"
+          "img": "https://img.29cm.co.kr/item/202310/11ee640a63c8f98983bc1528ecd48482.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2164494"
         },
         {
           "rank": 9,
-          "brand": "더바넷",
-          "name": "Pebble Light Goose Down Hoodie Jacket_Brown",
+          "brand": "비터셀즈",
+          "name": "[은현 PICK] Reversible Mellow Fleece Jacket-Grey",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202610/11f1c244bdae30a68aae0ff0728a570c.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4248535"
+          "img": "https://img.29cm.co.kr/item/202610/11f1c2ab8a46120a8aaea3d000e0be77.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4234558"
         },
         {
           "rank": 10,
-          "brand": "커스텀어클락 우먼",
-          "name": "[보라끌레르 PICK] 베이직 브이넥 골지 니트 10 COLOR COWKT001",
+          "brand": "시야쥬",
+          "name": "[29CM 단독] SIPT7097 기모 골지 스웻 팬츠_Melange gray",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f19f7493ad595a8fdcab786ed52d45.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3491583"
+          "img": "https://img.29cm.co.kr/item/202311/11ee7d46e34e34a783bcc59791c51d93.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2314128"
         },
         {
           "rank": 11,
-          "brand": "오셀픽",
-          "name": "[8차 리오더] (uni) 스탠다드 뉴욕 긴팔 파자마 핑크 커플 긴팔 잠옷 상하세트 2Size",
+          "brand": "시야쥬",
+          "name": "[29CM 단독] SIKN2202 소프트 울 딥 브이넥 니트_Deep purple",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202508/11f083d5cc240237ab5d45372bf7f783.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3466925"
+          "img": "https://img.29cm.co.kr/item/202609/11f1bacab516db0690ed87231e33eec6.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4240266"
         },
         {
           "rank": 12,
-          "brand": "더바넷",
-          "name": "Pove Fleece Half-Snap Pullover_Light Blue",
+          "brand": "시야쥬",
+          "name": "[29CM 단독/루피타PICK] SIOT4222 러스터 빈티지 퍼 자켓_Beige",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202611/11f1dcd4b0a50bedb5d9cf0cd001476f.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3655476"
+          "img": "https://img.29cm.co.kr/item/202611/11f1dbddad900c3db5d9577fe421c73f.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4323286"
         },
         {
           "rank": 13,
-          "brand": "파르티멘토 우먼",
-          "name": "BOUCLE FLEECE ROUNDING PANTS_20COLOR",
+          "brand": "시야쥬",
+          "name": "SIPT7056 high waist corduroy pants_Charcoal brown",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202610/11f1d2a304f0ad9baa2d852cfff51d37.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4290714"
+          "img": "https://img.29cm.co.kr/next-product/2022/09/02/b1529a205ac147d08d57a1e4203e8c7a_20220902191813.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/1702628"
         },
         {
           "rank": 14,
-          "brand": "수아레 우먼",
-          "name": "[컬러,사이즈 추가]_(우먼)라이트 시어쉘 패딩 점퍼 - 6 COLOR",
+          "brand": "시야쥬",
+          "name": "[29CM 단독] SIPT7097 기모 골지 스웻 팬츠_Black",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202608/11f1a1b6707854cc8fdcd7849d3fc86c.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4161244"
+          "img": "https://img.29cm.co.kr/item/202311/11ee7d46d41f7caf8a7f9b6f5fd9a647.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2314125"
         },
         {
           "rank": 15,
+          "brand": "유라고",
+          "name": "[바로배송]_[5차 리오더][기장선택][기모] Winter comfort string pants_2colors",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202511/11f0ba2047b773288388c52e3da30ba4.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/3619976"
+        },
+        {
+          "rank": 16,
+          "brand": "시야쥬",
+          "name": "[다희PICK] SITP5323 배색 래글런 티셔츠_Purple",
+          "price": "",
+          "cat": "",
+          "img": "https://img.29cm.co.kr/item/202611/11f1dbdd4481fa0db5d9e3c8ec2b1965.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4323207"
+        },
+        {
+          "rank": 17,
           "brand": "몽돌",
           "name": "[26FW]_하프 스냅 플리스 아노락 스카이블루 MDTS103SKYBLUE",
           "price": "",
@@ -148,49 +166,31 @@
           "url": "https://www.29cm.co.kr/product/catalog/4149859"
         },
         {
-          "rank": 16,
-          "brand": "프랜틱서비스",
-          "name": "[4th RE]_아가일 클래식 타이즈 - 차콜",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202611/11f1dd792579da22aa2ddf9a2dde70bd.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4353176"
-        },
-        {
-          "rank": 17,
-          "brand": "더바넷",
-          "name": "Lang Stripe Overfit T-shirt_Grey",
-          "price": "",
-          "cat": "",
-          "img": "https://img.29cm.co.kr/item/202509/11f08f7dd52cc3b4be176108dadd0312.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/3462452"
-        },
-        {
           "rank": 18,
-          "brand": "프랜틱서비스",
-          "name": "[2nd RE]_아가일 클래식 타이즈 - 브라운",
+          "brand": "시야쥬",
+          "name": "[29CM 단독/해삐PICK] SIKN2218 타임리스 라운드넥 니트_Magenta pink",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202611/11f1d9afdb66aff1b5d9fb0683a28169.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4353169"
+          "img": "https://img.29cm.co.kr/item/202611/11f1dbdc40000ffbaa2d8376d109e5f9.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4323233"
         },
         {
           "rank": 19,
-          "brand": "커스텀어클락 우먼",
-          "name": "[보라끌레르 PICK] 벨티드 발마칸 하프 코트 블랙 COWCT002BLACK",
+          "brand": "시야쥬",
+          "name": "[29CM 단독/해삐PICK] SIPT7218 커브드 밴딩 조거 팬츠_Yellow",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202610/11f1d1c955a78698aa54b1f7894e1d31.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4198000"
+          "img": "https://img.29cm.co.kr/item/202611/11f1dbdc98b80231aa2d8d2d46686b11.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/4323200"
         },
         {
           "rank": 20,
-          "brand": "미치코런던 코시노",
-          "name": "Quilted Fleece Zip-up Navy",
+          "brand": "몽돌",
+          "name": "윈터ver) 원 턱 와이드 슬랙스 차콜 MDPT025FWCHARCOAL",
           "price": "",
           "cat": "",
-          "img": "https://img.29cm.co.kr/item/202609/11f1acf89549e240898f67518a066909.jpg?width=400&format=webp",
-          "url": "https://www.29cm.co.kr/product/catalog/4189828"
+          "img": "https://img.29cm.co.kr/item/202509/11f099ef12e312deb563e7614b58f36a.jpg?width=400&format=webp",
+          "url": "https://www.29cm.co.kr/product/catalog/2851087"
         }
       ],
       "ok": true,
@@ -204,49 +204,13 @@
           "rank": 1,
           "brand": "COACH OUTLET",
           "name": "",
-          "price": "39,600",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/182/rs9182-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RS9182/"
-        },
-        {
-          "rank": 2,
-          "brand": "GeeRA",
-          "name": "",
-          "price": "5,390",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/591/sk9591-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SK9591/"
-        },
-        {
-          "rank": 3,
-          "brand": "COACH OUTLET",
-          "name": "",
-          "price": "25,000",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/869/pw0869-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/PW0869/"
-        },
-        {
-          "rank": 4,
-          "brand": "COACH OUTLET",
-          "name": "",
           "price": "25,000",
           "cat": "",
           "img": "https://tshop.r10s.jp/stylife/cabinet/item/865/pw0865-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
           "url": "https://brandavenue.rakuten.co.jp/item/PW0865/"
         },
         {
-          "rank": 5,
-          "brand": "FREAK’S STORE",
-          "name": "",
-          "price": "11,390",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/089/ss3089-07_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SS3089/"
-        },
-        {
-          "rank": 6,
+          "rank": 2,
           "brand": "adidas",
           "name": "",
           "price": "13,200",
@@ -255,25 +219,34 @@
           "url": "https://brandavenue.rakuten.co.jp/item/SG7052/"
         },
         {
-          "rank": 7,
-          "brand": "UNITED ARROWS green label relaxing",
+          "rank": 3,
+          "brand": "va",
           "name": "",
-          "price": "15,950",
+          "price": "22,000",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/238/rd8238-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/RD8238/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/119/qx6119-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/QX6119/"
         },
         {
-          "rank": 8,
-          "brand": "Spick & Span",
+          "rank": 4,
+          "brand": "FREAK’S STORE",
           "name": "",
-          "price": "39,600",
+          "price": "11,390",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/196/sq2196-10_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SQ2196/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/089/ss3089-07_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SS3089/"
         },
         {
-          "rank": 9,
+          "rank": 5,
+          "brand": "GeeRA",
+          "name": "",
+          "price": "5,390",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/591/sk9591-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SK9591/"
+        },
+        {
+          "rank": 6,
           "brand": "UNITED ARROWS green label relaxing",
           "name": "",
           "price": "15,246",
@@ -282,7 +255,25 @@
           "url": "https://brandavenue.rakuten.co.jp/item/SX1081/"
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "brand": "FREAK’S STORE",
+          "name": "",
+          "price": "14,993",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/289/th0289-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/TH0289/"
+        },
+        {
+          "rank": 8,
+          "brand": "New Balance",
+          "name": "",
+          "price": "24,200",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/247/ph6247-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/PH6247/"
+        },
+        {
+          "rank": 9,
           "brand": "FREAK’S STORE",
           "name": "",
           "price": "8,008",
@@ -291,7 +282,25 @@
           "url": "https://brandavenue.rakuten.co.jp/item/SN2263/"
         },
         {
+          "rank": 10,
+          "brand": "UNITED ARROWS green label relaxing",
+          "name": "",
+          "price": "8,019",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/377/sx2377-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SX2377/"
+        },
+        {
           "rank": 11,
+          "brand": "COACH OUTLET",
+          "name": "",
+          "price": "20,000",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/280/qv4280-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/QV4280/"
+        },
+        {
+          "rank": 12,
           "brand": "POLA",
           "name": "",
           "price": "19,800",
@@ -300,34 +309,43 @@
           "url": "https://brandavenue.rakuten.co.jp/item/SV2423/"
         },
         {
-          "rank": 12,
-          "brand": "sanrio house",
-          "name": "",
-          "price": "17,490",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/645/ta7645-05_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/TA7645/"
-        },
-        {
           "rank": 13,
-          "brand": "MACKINTOSH",
+          "brand": "BEARDSLEY",
           "name": "",
-          "price": "195,800",
+          "price": "16,830",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/737/tc6737-05_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/TC6737/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/656/sk2656-06_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SK2656/"
         },
         {
           "rank": 14,
           "brand": "UNITED ARROWS green label relaxing",
           "name": "",
-          "price": "11,990",
+          "price": "15,950",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/242/sw9242-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SW9242/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/238/rd8238-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/RD8238/"
         },
         {
           "rank": 15,
+          "brand": "45R",
+          "name": "",
+          "price": "39,600",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/737/th0737-05_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/TH0737/"
+        },
+        {
+          "rank": 16,
+          "brand": "anuans",
+          "name": "",
+          "price": "33,000",
+          "cat": "",
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/521/su9521-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SU9521/"
+        },
+        {
+          "rank": 17,
           "brand": "SALOMON",
           "name": "",
           "price": "28,600",
@@ -336,49 +354,31 @@
           "url": "https://brandavenue.rakuten.co.jp/item/HF8004/"
         },
         {
-          "rank": 16,
-          "brand": "UNITED ARROWS",
-          "name": "",
-          "price": "33,990",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/858/td1858-03_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/TD1858/"
-        },
-        {
-          "rank": 17,
-          "brand": "JOURNAL STANDARD",
-          "name": "",
-          "price": "41,800",
-          "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/736/tf6736-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/TF6736/"
-        },
-        {
           "rank": 18,
-          "brand": "Francfranc",
+          "brand": "SLOBE IENA",
           "name": "",
-          "price": "13,800",
+          "price": "16,940",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/578/tb8578-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/TB8578/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/025/sp6025-04_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SP6025/"
         },
         {
           "rank": 19,
-          "brand": "FRAMeWORK",
+          "brand": "CIAOPANIC TYPY",
           "name": "",
-          "price": "53,900",
+          "price": "1,386",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/764/sq4764-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SQ4764/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/938/sk6938-07_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SK6938/"
         },
         {
           "rank": 20,
-          "brand": "DIESEL",
+          "brand": "UNITED ARROWS green label relaxing",
           "name": "",
-          "price": "161,700",
+          "price": "11,990",
           "cat": "",
-          "img": "https://tshop.r10s.jp/stylife/cabinet/item/147/sp1147-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
-          "url": "https://brandavenue.rakuten.co.jp/item/SP1147/"
+          "img": "https://tshop.r10s.jp/stylife/cabinet/item/242/sw9242-01_1.jpg?fitin=165:198&composite-to=center,center|165:198",
+          "url": "https://brandavenue.rakuten.co.jp/item/SW9242/"
         }
       ],
       "ok": true,
